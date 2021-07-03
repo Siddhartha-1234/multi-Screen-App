@@ -7,6 +7,6 @@ A app for beginers to make for practice
 
 Please run in Android Studio only
 
-  ## Api
+  ## Environment
 
 Can only run on phone above android 4.4
